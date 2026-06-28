@@ -1,0 +1,6 @@
+{
+  "name": "Калькулятор",
+  "description": "Продвинутый калькулятор с поддержкой матриц, графиков, научных функций, хранением истории и синхронизацией.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

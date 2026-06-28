@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer glossy glowing outline -->
+    <path
+        android:pathData="M24,24 h60 v60 h-60 z"
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M30,34 h48"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+    <!-- Plus button -->
+    <path
+        android:pathData="M34,52 h10 M39,47 v10"
+        android:strokeColor="#FF6C00"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <!-- Minus button -->
+    <path
+        android:pathData="M64,52 h10"
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <!-- Multiply button -->
+    <path
+        android:pathData="M34,72 L44,82 M44,72 L34,82"
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <!-- Equals button -->
+    <path
+        android:pathData="M64,74 h10 M64,80 h10"
+        android:strokeColor="#FF6C00"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+</vector>
